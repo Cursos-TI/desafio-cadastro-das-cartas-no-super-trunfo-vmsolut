@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Super Trunfo");
+    printf("Super Trunfo\n");
 
     int codigoC, pontosT, populacao;
     float area, pib;
